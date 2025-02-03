@@ -35,18 +35,18 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Seongwon Jeong
-  email: wjdtjddnjs7@gmail.com # change to your email address
+  email: seongwonjeong2001@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/sinam7 # change to your GitHub homepage
-    - https://www.linkedin.com/in/seongwon-jeong-b0350830b
+    - https://www.linkedin.com/in/seongwonjeong2001/
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: G-0JV9VQNTCS    # Google Search Console 인증 코드
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -59,7 +59,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-0JV9VQNTCS    # 여기에 본인의 Google Analytics 측정 ID를 입력
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -223,3 +223,7 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+author:
+  name: sinam7
+  link: https://github.com/sinam7  # 선택사항

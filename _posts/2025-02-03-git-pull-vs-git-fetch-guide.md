@@ -6,7 +6,6 @@ categories: [Git]
 tags: [git, git-commands, git-pull, git-fetch, version-control]
 description: "Git을 사용할 때 git pull과 git fetch는 자주 쓰이지만, 이를 처음 접하는 개발자들은 두 명령어의 차이를 자주 혼동합니다. 이 글에서는 두 명령어의 개념과 차이점을 명확하게 설명하고, 적절한 사용 방법을 살펴보겠습니다."
 keywords: [git pull, git fetch, git 명령어, git 버전 관리, git merge, git rebase, 깃 사용법]
-author: sinam7
 image:
   path: /assets/img/posts/2025-02-03-git-pull-vs-git-fetch-guide/git.png
   alt: "Git 로고 이미지"
